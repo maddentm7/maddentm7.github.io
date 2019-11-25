@@ -14,7 +14,7 @@ body {
   background-color:#fff0f5; 
   font-family: 'Helvetica'; 
   font-size: 20px;
-  color:#ac8181;
+  color:#916060;
 
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-size:60px;	
 	padding-top:20px;
 	padding-bottom:30px;
-	color:#ac8181;
+	color:#916060;
 }
 .boxed{
 	background-color:#fff0f5;
@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 25px 25px 25px 25px;
     float: left;
     display: block;
-    color: #171717;
+    color: #ac8181;
     background-color:#fff0f5;
     text-align: center;
     text-decoration: none;
