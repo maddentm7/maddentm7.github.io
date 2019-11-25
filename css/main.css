@@ -11,7 +11,7 @@
 
 body {
   padding-top: 0px;
-  background-color:#ffd8d5; 
+  background-color:#d6cadd; 
   font-family: 'Helvetica'; 
   font-size: 20px;
   color: #698B69;
@@ -38,17 +38,17 @@ h1, h2, h3, h4, h5, h6 {
 	padding-bottom:30px;
 }
 .boxed{
-	background-color:#ffd8d5;	
+	background-color:#d6cadd;	
 }
 .boxed a{
     padding: 25px 25px 25px 25px;
     float: left;
     display: block;
     color: #171717;
-    background-color:#ffd8d5;
+    background-color:#d6cadd;
     text-align: center;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .boxed a:hover {
@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 24px;
 }
 
 /* Change the color of links on hover */
