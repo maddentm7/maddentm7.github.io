@@ -12,8 +12,7 @@
 body {
   padding-top: 0px;
   background-color: #EED5D2;
-  font-family: 'Lora', serif; /* OPTIONAL: Google Fonts - base font */
-  font-weight: 300;
+  font-family: 'Helvetica'; 
   font-size: 20px;
   color: #698B69;
 
@@ -26,16 +25,18 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lora', serif; 
+  font-family: 'Helvetica'; 
   color:#000000;
   
 }
 .top-text{
 	padding-top: 50px;
-	padding-bottom:150px;
+	text-align:center;
 }
+
 .top-text h1{
 	font-size:60px;	
+	padding-bottom:50px;
 }
 .boxed{
 	padding-top; 100px;
