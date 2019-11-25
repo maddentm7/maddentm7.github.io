@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 25px 25px 25px 25px;
     float: left;
     display: block;
-    color: #a32901;
+    color: #171717;
     background-color: pink;
     text-align: center;
     text-decoration: none;
@@ -52,13 +52,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .boxed a:hover {
-    background-color: #a32901;
-    color: #EED5D2;
+    background-color: #171717;
+    color: pink;
 }
 
 /* Add a color to the active/current link */
 .boxed a.active {
-    background-color: #4CAF50;
+    background-color: #171717;
     color: white;
 }
 
@@ -69,7 +69,7 @@ h1, h2, h3, h4, h5, h6 {
     top: 0;
     padding: 0px;
     width: 100%;
-    background-color: #85144B;
+    background-color: #171717;
     overflow: hidden;
   
 }
