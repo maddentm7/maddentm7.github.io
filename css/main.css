@@ -29,6 +29,8 @@ h1, h2, h3, h4, h5, h6 {
   color:#000000;
   
 }
+.top{
+	background-color:#D5D3D4
 .top-text{
 	padding-top: 50px;
 }
@@ -49,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
     float: left;
     display: block;
     color: #a32901;
-    background-color: #000000;
+    background-color: #D5D3D4;
     text-align: center;
     text-decoration: none;
     font-size: 20px;
