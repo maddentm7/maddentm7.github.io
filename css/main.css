@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .boxed a:hover {
     background-color: #ac8181;
-    color:#ffd8d5;
+    color:#fff0f5;
 }
 
 /* Add a color to the active/current link */
@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 .topnav a {
     float: left;
     display: block;
-    color: #EED5D2;
+    color: #fff0f5;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
