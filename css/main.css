@@ -11,7 +11,7 @@
 
 body {
   padding-top: 0px;
-  background-color: #EED5D2;
+  background-color: #E5BCD7;
   font-family: 'Lora'; 
   font-size: 20px;
   color: #698B69;
@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
   
 }
 .top{
-	background-color:#D5D3D4;
+	background-color:#E5BCD7;
 }
 .top-text{
 	padding-top: 50px;
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 	padding_bottom: 25px;
 	padding-left: 15px;
 	padding-right: 15px;
-	background-color: #EED5D2;	
+	background-color: #E5BCD7;	
 }
 .boxed a{
     padding: 25px 25px 25px 25px;
