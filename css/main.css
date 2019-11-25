@@ -11,7 +11,7 @@
 
 body {
   padding-top: 0px;
-  background-color:#e1b5ce; 
+  background-color:#fff05f; 
   font-family: 'Helvetica'; 
   font-size: 17px;
   color: #698B69;
@@ -45,14 +45,14 @@ h1, h2, h3, h4, h5, h6 {
     float: left;
     display: block;
     color: #171717;
-    background-color:#e1b5ce;
+    background-color:#fff05f;
     text-align: center;
     text-decoration: none;
     font-size: 17px;
 }
 
 .boxed a:hover {
-    background-color: #171717;
+    background-color: #fff05f;
     color:#ffd8d5;
 }
 
