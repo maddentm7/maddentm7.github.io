@@ -38,10 +38,6 @@ h1, h2, h3, h4, h5, h6 {
 	padding-bottom:30px;
 }
 .boxed{
-	padding-top: 25px;
-	padding_bottom: 25px;
-	padding-left: 15px;
-	padding-right: 15px;
 	background-color: #e5c8e0;	
 }
 .boxed a{
