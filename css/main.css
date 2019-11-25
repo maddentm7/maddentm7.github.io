@@ -40,6 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 	color:#916060;
 }
 .boxed{
+	font-weight: bold;
 	background-color:#fff0f5;
 	color:#ac8181;
 }
