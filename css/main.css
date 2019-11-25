@@ -12,7 +12,7 @@
 body {
   padding-top: 0px;
   background-color: #EED5D2;
-  font-family: 'Ubuntu'; 
+  font-family: 'Georgia'; 
   font-size: 20px;
   color: #698B69;
 
@@ -25,7 +25,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Ubuntu'; 
+  font-family: 'Georgia'; 
   color:#000000;
   
 }
